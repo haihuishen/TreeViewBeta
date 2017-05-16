@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tree_ec.png",
+        "source": "F:\\AndroidStudioProjects\\TreeViewBeta\\app\\src\\main\\res\\drawable-mdpi\\tree_ec.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\TreeViewBeta\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tree_ex.png",
+        "source": "F:\\AndroidStudioProjects\\TreeViewBeta\\app\\src\\main\\res\\drawable-mdpi\\tree_ex.png"
+    }
+]

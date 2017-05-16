@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue May 16 14:45:14 CST 2017
+2.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\tree_ec.png
+5.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+8.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+4.set=ANDROID_RESOURCE
+6.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\AndroidStudioProjects\\TreeViewBeta\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\tree_ex.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
